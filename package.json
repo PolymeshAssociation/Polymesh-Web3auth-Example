@@ -1,13 +1,11 @@
 {
-  "name": "react-web3auth-modal",
+  "name": "polymesh-web3auth-example",
   "version": "0.1.0",
+  "homepage": "https://polymeshassociation.github.io/polymesh-web3auth-example",
   "private": true,
   "dependencies": {
     "@polymathnetwork/local-signing-manager": "^1.0.5",
-    "@polymeshassociation/polymesh-sdk": "15.0.0-alpha.15",    
-    "@taquito/signer": "^13.0.0",
-    "@taquito/taquito": "^13.0.0",
-    "@taquito/utils": "^13.0.0",
+    "@polymeshassociation/polymesh-sdk": "15.0.0-alpha.15",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -19,6 +17,7 @@
     "@web3auth/base": "^1.1.1",
     "@web3auth/openlogin-adapter": "^1.1.1",
     "@web3auth/web3auth": "^1.1.1",
+    "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
@@ -59,6 +58,8 @@
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   }
 }
