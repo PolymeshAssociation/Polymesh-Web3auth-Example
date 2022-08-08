@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Polymesh-Web3auth-Example/static/css/main.324bf7c7.css",
+    "main.js": "/Polymesh-Web3auth-Example/static/js/main.7c9d07b1.js",
+    "static/js/978.56924c92.chunk.js": "/Polymesh-Web3auth-Example/static/js/978.56924c92.chunk.js",
+    "static/js/848.bbe4ad3c.chunk.js": "/Polymesh-Web3auth-Example/static/js/848.bbe4ad3c.chunk.js",
+    "static/js/389.00b6fc4e.chunk.js": "/Polymesh-Web3auth-Example/static/js/389.00b6fc4e.chunk.js",
+    "static/js/66.09c8f972.chunk.js": "/Polymesh-Web3auth-Example/static/js/66.09c8f972.chunk.js",
+    "static/js/227.2ec327bb.chunk.js": "/Polymesh-Web3auth-Example/static/js/227.2ec327bb.chunk.js",
+    "static/js/833.37f4b1cb.chunk.js": "/Polymesh-Web3auth-Example/static/js/833.37f4b1cb.chunk.js",
+    "static/js/993.37374dca.chunk.js": "/Polymesh-Web3auth-Example/static/js/993.37374dca.chunk.js",
+    "static/js/921.b195d74f.chunk.js": "/Polymesh-Web3auth-Example/static/js/921.b195d74f.chunk.js",
+    "static/js/787.2a1c481a.chunk.js": "/Polymesh-Web3auth-Example/static/js/787.2a1c481a.chunk.js",
+    "static/js/898.a7062893.chunk.js": "/Polymesh-Web3auth-Example/static/js/898.a7062893.chunk.js",
+    "static/js/201.b77b5855.chunk.js": "/Polymesh-Web3auth-Example/static/js/201.b77b5855.chunk.js",
+    "static/js/823.74b1354a.chunk.js": "/Polymesh-Web3auth-Example/static/js/823.74b1354a.chunk.js",
+    "static/js/114.d9f76995.chunk.js": "/Polymesh-Web3auth-Example/static/js/114.d9f76995.chunk.js",
+    "static/js/256.39bf9cea.chunk.js": "/Polymesh-Web3auth-Example/static/js/256.39bf9cea.chunk.js",
+    "static/js/98.408263ce.chunk.js": "/Polymesh-Web3auth-Example/static/js/98.408263ce.chunk.js",
+    "static/js/968.f44d74cc.chunk.js": "/Polymesh-Web3auth-Example/static/js/968.f44d74cc.chunk.js",
+    "static/js/938.eb6a40bd.chunk.js": "/Polymesh-Web3auth-Example/static/js/938.eb6a40bd.chunk.js",
+    "index.html": "/Polymesh-Web3auth-Example/index.html",
+    "main.324bf7c7.css.map": "/Polymesh-Web3auth-Example/static/css/main.324bf7c7.css.map",
+    "main.7c9d07b1.js.map": "/Polymesh-Web3auth-Example/static/js/main.7c9d07b1.js.map",
+    "389.00b6fc4e.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/389.00b6fc4e.chunk.js.map",
+    "66.09c8f972.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/66.09c8f972.chunk.js.map",
+    "921.b195d74f.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/921.b195d74f.chunk.js.map",
+    "787.2a1c481a.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/787.2a1c481a.chunk.js.map",
+    "898.a7062893.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/898.a7062893.chunk.js.map",
+    "201.b77b5855.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/201.b77b5855.chunk.js.map",
+    "823.74b1354a.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/823.74b1354a.chunk.js.map",
+    "114.d9f76995.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/114.d9f76995.chunk.js.map",
+    "256.39bf9cea.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/256.39bf9cea.chunk.js.map",
+    "98.408263ce.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/98.408263ce.chunk.js.map",
+    "968.f44d74cc.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/968.f44d74cc.chunk.js.map",
+    "938.eb6a40bd.chunk.js.map": "/Polymesh-Web3auth-Example/static/js/938.eb6a40bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.324bf7c7.css",
+    "static/js/main.7c9d07b1.js"
+  ]
+}
